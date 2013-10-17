@@ -3,11 +3,11 @@ package lesn.mc.pageelement;
 public class LoginPageTestData {
   
 	public static final String URL=""; 
-	public static final String username="532522196502170025";     
+	public static final String username="";     
 	public static final String password="123456"; 
-	public static final String loginTitle="ÓñÏªÊĞÒ½ÁÆÎÀÉú×ÛºÏ·şÎñÏµÍ³";
+	public static final String loginTitle="ï¿½ï¿½Ïªï¿½ï¿½Ò½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÛºÏ·ï¿½ï¿½ï¿½ÏµÍ³";
 	public static String pageTitle="";
-	public static final String ErrMessageForNoPassword="±ØĞëÂ¼ÈëÃÜÂë¡£";
-	public static final String ErrMessageForNoUsername="±ØĞëÂ¼ÈëÓÃ»§Ãû¡£";
-	public static final String ErrMessageForNoUsernameAndPassword="±ØĞëÂ¼ÈëÓÃ»§Ãû¡£"+"\n"+"±ØĞëÂ¼ÈëÃÜÂë¡£";
+	public static final String ErrMessageForNoPassword="ï¿½ï¿½ï¿½ï¿½Â¼ï¿½ï¿½ï¿½ï¿½ï¿½ë¡£";
+	public static final String ErrMessageForNoUsername="ï¿½ï¿½ï¿½ï¿½Â¼ï¿½ï¿½ï¿½Ã»ï¿½ï¿½ï¿½ï¿½ï¿½";
+	public static final String ErrMessageForNoUsernameAndPassword="ï¿½ï¿½ï¿½ï¿½Â¼ï¿½ï¿½ï¿½Ã»ï¿½ï¿½ï¿½ï¿½ï¿½"+"\n"+"ï¿½ï¿½ï¿½ï¿½Â¼ï¿½ï¿½ï¿½ï¿½ï¿½ë¡£";
 	}
