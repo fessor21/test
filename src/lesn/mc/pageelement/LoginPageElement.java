@@ -1,7 +1,6 @@
 package lesn.mc.pageelement;
 
 public class LoginPageElement {
-	public static final String URL="http://train.yxws.cn/AppcenterPortalWeb/index.action"; 
 	public static final String usernameByID="username";     
 	public static final String passwordByID="password"; 
 	public static final String submit = "//html/body/div/div/form/div[4]/a";	
